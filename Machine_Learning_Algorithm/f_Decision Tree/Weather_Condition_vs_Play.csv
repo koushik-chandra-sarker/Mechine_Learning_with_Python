@@ -1,0 +1,8 @@
+Day,Outlook,Temperature,Routine,Play
+Day1,Sunny,Cold,Indoor,No
+Day2,Sunny,Warm,Outdoor,No
+Day3,Cloudy,Warm,Indoor,No
+Day4,Sunny,Warm,Indoor,No
+Day5,Cloudy,Cold,Indoor,Yes
+Day6,Cloudy,Cold,Outdoor,Yes
+Day7,Sunny,Cold,Outdoor,Yes
